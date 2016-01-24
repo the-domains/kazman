@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.6237017
+  brandStrength: 0.8069631
+  lightness: 0.5822759
+  brandColors:
+    - '#CFCDC6'
+    - '#17557E'
+    - '#E09032'
+    - '#908977'
+    - '#A33A30'
+  rhythmicContrast: 0.2465434
+typography_spectrum: 0.9360902
+name: KaZMaN
